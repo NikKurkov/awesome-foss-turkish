@@ -1,0 +1,21 @@
+name: Listeleri doğrula
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Listeleri üret
+        run: node scripts/build.mjs
+      - name: Üretilen dosyalar güncel mi?
+        run: |
+          git diff --exit-code -- README.md categories platforms licenses lists \
+            || (echo "data/apps.json değişti ama 'node scripts/build.mjs' çalıştırılmamış." && exit 1)

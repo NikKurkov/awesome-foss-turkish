@@ -1,0 +1,176 @@
+[
+  {
+    "tag": "Self-hosted · ~280k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "name": "awesome-selfhosted"
+      }
+    ],
+    "description": "Kendi sunucunda barındırılabilen 1000'den fazla uygulama, lisans ve dil etiketli. Bu alandaki ana kaynak."
+  },
+  {
+    "tag": "SaaS alternatifleri · ~18.5k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
+        "name": "RunaCapital/awesome-oss-alternatives"
+      }
+    ],
+    "description": "Bilinen SaaS ürünlerine açık kaynak girişim alternatifleri. Şirket odaklı."
+  },
+  {
+    "tag": "SaaS alternatifleri · ~9k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/btw-so/open-source-alternatives",
+        "name": "btw-so/open-source-alternatives"
+      }
+    ],
+    "description": "Gündelik SaaS ürünlerinin açık kaynak karşılıkları."
+  },
+  {
+    "tag": "Masaüstü + self-hosted",
+    "links": [
+      {
+        "url": "https://github.com/mustbeperfect/definitive-opensource",
+        "name": "definitive-opensource"
+      }
+    ],
+    "description": "Sadece doğrudan kullanılan uygulamalar. Platform (Cross, Mobile, SelfHost) ve özellik (CLI+, TUI) etiketleri var; Awesome List yapına iyi bir örnek."
+  },
+  {
+    "tag": "Topluluk dizini",
+    "links": [
+      {
+        "url": "https://github.com/piotrkulpinski/openalternative",
+        "name": "OpenAlternative"
+      }
+    ],
+    "description": "openalternative.co sitesinin kaynak kodu, kategorili ve aranabilir."
+  },
+  {
+    "tag": "Genel alternatifler",
+    "links": [
+      {
+        "url": "https://github.com/diegoleme/awesome-open-source-alternatives",
+        "name": "awesome-open-source-alternatives"
+      }
+    ],
+    "description": "Bilinen uygulamalara alternatiflerin kısa listesi. Seyrek güncelleniyor."
+  },
+  {
+    "tag": "Gizlilik",
+    "links": [
+      {
+        "url": "https://github.com/pluja/awesome-privacy",
+        "name": "awesome-privacy"
+      }
+    ],
+    "description": "Gizliliğe saygılı servis ve uygulamalar, Google'dan kurtulma rehberi."
+  },
+  {
+    "tag": "Terminal · ~20k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/agarrharr/awesome-cli-apps",
+        "name": "awesome-cli-apps"
+      }
+    ],
+    "description": "Kategorili komut satırı uygulamaları."
+  },
+  {
+    "tag": "Terminal",
+    "links": [
+      {
+        "url": "https://github.com/ibraheemdev/modern-unix",
+        "name": "modern-unix"
+      }
+    ],
+    "description": "Klasik Unix komutlarının modern karşılıkları (bat, eza, fd…)."
+  },
+  {
+    "tag": "Sistem yönetimi · ~35k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/awesome-foss/awesome-sysadmin",
+        "name": "awesome-sysadmin"
+      }
+    ],
+    "description": "Açık kaynak sysadmin ve DevOps araçları."
+  },
+  {
+    "tag": "Linux",
+    "links": [
+      {
+        "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+        "name": "Awesome-Linux-Software"
+      }
+    ],
+    "description": "Linux masaüstü uygulamaları, kategorilere göre."
+  },
+  {
+    "tag": "Android",
+    "links": [
+      {
+        "url": "https://github.com/offa/android-foss",
+        "name": "android-foss"
+      }
+    ],
+    "description": "Açık kaynak Android uygulamaları."
+  },
+  {
+    "tag": "iOS · ~52k ⭐",
+    "links": [
+      {
+        "url": "https://github.com/dkhamsing/open-source-ios-apps",
+        "name": "open-source-ios-apps"
+      }
+    ],
+    "description": "Açık kaynak iOS uygulamaları, kaynak kodlarıyla."
+  },
+  {
+    "tag": "Keşif",
+    "links": [
+      {
+        "url": "https://github.com/Furthir/awesome-useful-projects",
+        "name": "awesome-useful-projects"
+      }
+    ],
+    "description": "Diğer faydalı listelere ve projelere bağlantılar."
+  },
+  {
+    "tag": "Keşif",
+    "links": [
+      {
+        "url": "https://github.com/521xueweihan/HelloGitHub",
+        "name": "HelloGitHub"
+      }
+    ],
+    "description": "Her ay ilginç ve başlangıç dostu açık kaynak projeler."
+  },
+  {
+    "tag": "Listelerin listesi",
+    "links": [
+      {
+        "url": "https://github.com/sindresorhus/awesome",
+        "name": "sindresorhus/awesome"
+      },
+      {
+        "url": "https://github.com/jnv/lists",
+        "name": "jnv/lists"
+      }
+    ],
+    "description": "Tüm awesome listelerinin ana dizinleri."
+  },
+  {
+    "tag": "Laravel",
+    "links": [
+      {
+        "url": "https://github.com/chiraggude/awesome-laravel",
+        "name": "awesome-laravel"
+      }
+    ],
+    "description": "Laravel paketleri, araçları ve kaynakları."
+  }
+]
