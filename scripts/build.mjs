@@ -88,7 +88,7 @@ function table(list, { withCategory = false } = {}) {
   return `${head}\n${rows.join("\n")}`;
 }
 
-const LEGEND = "**Etiketler:** OSI = OSI onaylı açık kaynak · 🧩 Open-core = OSI çekirdek + ticari lisanslı kısımlar · 📄 Diğer açık = OSI dışı serbest lisans · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen";
+const LEGEND = "**Etiketler:** OSI = OSI onaylı açık kaynak · 🧩 Open-core = OSI çekirdek + ticari lisanslı kısımlar · 📄 Diğer açık = OSI dışı serbest lisans · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025 sonrası açılmış, 5000+ yıldızlı";
 const backLink = "[← Ana sayfa](../README.md)";
 
 function write(rel, content) {
