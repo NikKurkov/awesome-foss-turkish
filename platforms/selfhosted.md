@@ -2,7 +2,7 @@
 
 [← Ana sayfa](../README.md)
 
-83 araç. **Etiketler:** OSI = OSI onaylı açık kaynak · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen
+84 araç. **Etiketler:** OSI = OSI onaylı açık kaynak · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen
 
 | Alternatif | Yerine geçtiği | Kategori | Lisans | Platform | Açıklama |
 | --- | --- | --- | --- | --- | --- |
@@ -75,6 +75,7 @@
 | [SeaweedFS](https://github.com/seaweedfs/seaweedfs) | AWS S3 | [Depolama ve Yedek](../categories/depolama-ve-yedek.md) | OSI<br><sub>Apache-2.0</sub> | Sunucu | Ölçeklenebilir dosya ve nesne depolama. |
 | [Shlink](https://github.com/shlinkio/shlink) | Bitly | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>MIT</sub> | Sunucu | Kısa link ve tıklama istatistiği (PHP). |
 | [SigNoz](https://github.com/SigNoz/signoz) | Datadog APM | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>MIT (çekirdek)</sub> | Sunucu | OpenTelemetry tabanlı log, metrik, trace. |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | UptimeRobot | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>MIT</sub> | Sunucu, Docker | Web sitesi erişilebilirliğini, yanıt sürelerini, TLS sertifikalarını ve alan adı sürelerini izler. |
 | [Snipe-IT](https://github.com/grokability/snipe-it) | Varlık takibi | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI · 🟥 Laravel<br><sub>AGPL-3.0</sub> | Sunucu | Cihaz ve lisans envanteri. |
 | [Stalwart](https://github.com/stalwartlabs/stalwart) | Google Workspace Mail | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>AGPL-3.0</sub> | Sunucu | Rust ile yazılmış hepsi bir arada mail sunucusu. |
 | [Strapi](https://github.com/strapi/strapi) | Contentful | [Geliştirici Araçları](../categories/gelistirici-araclari.md) | OSI<br><sub>MIT (çekirdek)</sub> | Sunucu | Headless CMS. |

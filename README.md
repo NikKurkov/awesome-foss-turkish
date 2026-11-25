@@ -2,7 +2,7 @@
 
 > Ücretli veya kapalı kaynak uygulamaların yerine kullanılabilecek açık kaynak alternatifler; alana, işletim sistemine ve lisansa göre düzenlenmiş.
 
-**299 araç · 15 kategori · 285 OSI lisanslı** · Son güncelleme: 2026-11-24
+**300 araç · 15 kategori · 286 OSI lisanslı** · Son güncelleme: 2026-11-25
 
 **Etiketler:** OSI = OSI onaylı açık kaynak · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen
 
@@ -29,7 +29,7 @@
 | [Oyun Geliştirme](categories/oyun-gelistirme.md) | 9 |
 | [Geliştirici Araçları](categories/gelistirici-araclari.md) | 49 |
 | [AI ve Yerel Modeller](categories/ai-ve-yerel-modeller.md) | 9 |
-| [Self-hosted ve Sunucu](categories/self-hosted-ve-sunucu.md) | 36 |
+| [Self-hosted ve Sunucu](categories/self-hosted-ve-sunucu.md) | 37 |
 | [Kişisel ve Ev](categories/kisisel-ve-ev.md) | 12 |
 | [Linux ve Terminal](categories/linux-ve-terminal.md) | 24 |
 | [Windows](categories/windows.md) | 12 |
@@ -45,7 +45,7 @@
 | [Android](platforms/android.md) | 46 |
 | [iOS](platforms/ios.md) | 30 |
 | [Web](platforms/web.md) | 56 |
-| [Self-hosted (sunucu)](platforms/selfhosted.md) | 83 |
+| [Self-hosted (sunucu)](platforms/selfhosted.md) | 84 |
 | [Komut satırı (CLI)](platforms/cli.md) | 35 |
 | [Eklenti, paket ve repolar](platforms/extensions.md) | 8 |
 
@@ -53,7 +53,7 @@
 
 | Lisans türü | Araç sayısı | Açıklama |
 | --- | --- | --- |
-| [OSI onaylı açık kaynak](licenses/osi.md) | 285 | MIT, GPL, AGPL, Apache, MPL, BSD gibi OSI onaylı lisanslar. |
+| [OSI onaylı açık kaynak](licenses/osi.md) | 286 | MIT, GPL, AGPL, Apache, MPL, BSD gibi OSI onaylı lisanslar. |
 | [Kısıtlı lisans](licenses/restricted.md) | 14 | Source-available veya fair-code (BSL, FSL, Sustainable Use, Elastic vb.). Kodu okuyabilir ve kendin barındırabilirsin ama ticari kullanım sınırlı olabilir. |
 
 ## Özel listeler

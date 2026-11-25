@@ -3515,6 +3515,22 @@
   {
     "category": "Self-hosted ve Sunucu",
     "category_slug": "self-hosted-ve-sunucu",
+    "replaces": "UptimeRobot",
+    "name": "SiteWatcher",
+    "url": "https://github.com/NikKurkov/sitewatcher",
+    "license_type": "osi",
+    "license": "MIT",
+    "platforms": [
+      "Sunucu",
+      "Docker"
+    ],
+    "description": "Web sitesi erişilebilirliğini, yanıt sürelerini, TLS sertifikalarını ve alan adı sürelerini izler.",
+    "laravel": false,
+    "trending": false
+  },
+  {
+    "category": "Self-hosted ve Sunucu",
+    "category_slug": "self-hosted-ve-sunucu",
     "replaces": "Statuspage",
     "name": "Cachet",
     "url": "https://github.com/cachethq/cachet",

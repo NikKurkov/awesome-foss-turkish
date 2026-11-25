@@ -2,7 +2,7 @@
 
 [← Ana sayfa](../README.md)
 
-36 araç. **Etiketler:** OSI = OSI onaylı açık kaynak · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen
+37 araç. **Etiketler:** OSI = OSI onaylı açık kaynak · ⚠️ Kısıtlı = source-available/fair-code · 🟥 Laravel = Laravel ile yazılmış · 🔥 Trend = 2025-2026'da hızla yükselen
 
 | Alternatif | Yerine geçtiği | Lisans | Platform | Açıklama |
 | --- | --- | --- | --- | --- |
@@ -36,6 +36,7 @@
 | [Proxmox VE](https://www.proxmox.com) | VMware / Hyper-V | OSI<br><sub>AGPL-3.0</sub> | Bare metal | Sanallaştırma ve LXC. |
 | [Shlink](https://github.com/shlinkio/shlink) | Bitly | OSI<br><sub>MIT</sub> | Sunucu | Kısa link ve tıklama istatistiği (PHP). |
 | [SigNoz](https://github.com/SigNoz/signoz) | Datadog APM | OSI<br><sub>MIT (çekirdek)</sub> | Sunucu | OpenTelemetry tabanlı log, metrik, trace. |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | UptimeRobot | OSI<br><sub>MIT</sub> | Sunucu, Docker | Web sitesi erişilebilirliğini, yanıt sürelerini, TLS sertifikalarını ve alan adı sürelerini izler. |
 | [Snipe-IT](https://github.com/grokability/snipe-it) | Varlık takibi | OSI · 🟥 Laravel<br><sub>AGPL-3.0</sub> | Sunucu | Cihaz ve lisans envanteri. |
 | [Stalwart](https://github.com/stalwartlabs/stalwart) | Google Workspace Mail | OSI<br><sub>AGPL-3.0</sub> | Sunucu | Rust ile yazılmış hepsi bir arada mail sunucusu. |
 | [Traefik](https://github.com/traefik/traefik) | Cloudflare (proxy) | OSI<br><sub>MIT</sub> | Sunucu | Konteynerleri otomatik algılayan reverse proxy. |

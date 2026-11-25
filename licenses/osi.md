@@ -2,7 +2,7 @@
 
 [← Ana sayfa](../README.md)
 
-MIT, GPL, AGPL, Apache, MPL, BSD gibi OSI onaylı lisanslar. 285 araç.
+MIT, GPL, AGPL, Apache, MPL, BSD gibi OSI onaylı lisanslar. 286 araç.
 
 | Alternatif | Yerine geçtiği | Kategori | Lisans | Platform | Açıklama |
 | --- | --- | --- | --- | --- | --- |
@@ -234,6 +234,7 @@ MIT, GPL, AGPL, Apache, MPL, BSD gibi OSI onaylı lisanslar. 285 araç.
 | [Shotcut](https://github.com/mltframework/shotcut) | CapCut / iMovie | [Video, Ses ve 3D](../categories/video-ses-ve-3d.md) | OSI<br><sub>GPL-3.0</sub> | Linux, Windows, macOS | Basit ve hızlı kurgu. |
 | [Signal](https://github.com/signalapp) | WhatsApp | [İletişim](../categories/iletisim.md) | OSI<br><sub>AGPL-3.0</sub> | Masaüstü, Mobil | Uçtan uca şifreli. |
 | [SigNoz](https://github.com/SigNoz/signoz) | Datadog APM | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>MIT (çekirdek)</sub> | Sunucu | OpenTelemetry tabanlı log, metrik, trace. |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | UptimeRobot | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>MIT</sub> | Sunucu, Docker | Web sitesi erişilebilirliğini, yanıt sürelerini, TLS sertifikalarını ve alan adı sürelerini izler. |
 | [SiYuan](https://github.com/siyuan-note/siyuan) | Obsidian Sync / Roam | [Ofis ve Üretkenlik](../categories/ofis-ve-uretkenlik.md) | OSI<br><sub>AGPL-3.0</sub> | Linux, Windows, macOS, Mobil | Blok tabanlı, kendi sunucunda barındırılabiliyor. |
 | [Snipe-IT](https://github.com/grokability/snipe-it) | Varlık takibi | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI · 🟥 Laravel<br><sub>AGPL-3.0</sub> | Sunucu | Cihaz ve lisans envanteri. |
 | [Stalwart](https://github.com/stalwartlabs/stalwart) | Google Workspace Mail | [Self-hosted ve Sunucu](../categories/self-hosted-ve-sunucu.md) | OSI<br><sub>AGPL-3.0</sub> | Sunucu | Rust ile yazılmış hepsi bir arada mail sunucusu. |
